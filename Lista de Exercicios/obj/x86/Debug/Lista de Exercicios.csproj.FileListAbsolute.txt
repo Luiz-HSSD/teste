@@ -1,0 +1,9 @@
+c:\users\fatec\documents\visual studio 2010\Projects\Lista de Exercicios\Lista de Exercicios\bin\Debug\Lista de Exercicios.exe
+c:\users\fatec\documents\visual studio 2010\Projects\Lista de Exercicios\Lista de Exercicios\bin\Debug\Lista de Exercicios.pdb
+c:\users\fatec\documents\visual studio 2010\Projects\Lista de Exercicios\Lista de Exercicios\obj\x86\Debug\Lista de Exercicios.exe
+c:\users\fatec\documents\visual studio 2010\Projects\Lista de Exercicios\Lista de Exercicios\obj\x86\Debug\Lista de Exercicios.pdb
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Lista de Exercicios\Lista de Exercicios\bin\Debug\Lista de Exercicios.exe
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Lista de Exercicios\Lista de Exercicios\bin\Debug\Lista de Exercicios.pdb
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Lista de Exercicios\Lista de Exercicios\obj\x86\Debug\Lista de Exercicios.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Lista de Exercicios\Lista de Exercicios\obj\x86\Debug\Lista de Exercicios.exe
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\Lista de Exercicios\Lista de Exercicios\obj\x86\Debug\Lista de Exercicios.pdb
